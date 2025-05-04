@@ -8,4 +8,4 @@
 - REST API development
 - Layered architecture (Controller, Service, Repository)
 
-![Certificate](Spring-boot-3-pdfs|Milan-Spring.jpg)
+![Certificate](Spring-boot-3-pdfs/Milan-Spring.jpg)
